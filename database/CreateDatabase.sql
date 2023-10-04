@@ -1,3 +1,5 @@
+-- You need to create database first!
+
 CREATE TABLE Publisher (
     id INT PRIMARY KEY,
     publisher NVARCHAR(100) NOT NULL,
